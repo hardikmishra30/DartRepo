@@ -3,5 +3,5 @@ void main() {
   num.add(7); //number 7 is addes using the add fucntion
   print("$num");
   num.sort(); //here the sort function is used to sort
-  print("$num");
+  print("Sorted list: $num");
 }
